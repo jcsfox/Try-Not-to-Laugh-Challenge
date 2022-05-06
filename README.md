@@ -1,4 +1,4 @@
-# Try-Not-to-Laugh
+# ⭐  Try-Not-to-Laugh
 
 <i>Check it out</i>:  
 https://laughchallenge.netlify.app
