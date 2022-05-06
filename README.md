@@ -1,4 +1,6 @@
 # Try-Not-to-Laugh
+
+<i>Check it out</i>:  
 https://laughchallenge.netlify.app
 
 Ready to laugh.. or not? <br>
